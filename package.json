@@ -1,0 +1,24 @@
+{
+    "name": "elenajs-pg",
+    "amdName": "pg",
+    "version": "0.0.1",
+    "private": true,
+    "author": {
+        "name": "kiuma",
+        "email": "kiuma72@gmail.com"
+    },
+    "keywords": [
+        "elenajs",
+        "plugin",
+        "pg",
+        "postgres",
+        "postgresql"
+    ],
+    "main": "./lib/main",
+    "directories": {
+        "lib": "./lib"
+    },
+    "dependencies": {
+	"pg": ""
+    }
+}
