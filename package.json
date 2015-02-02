@@ -19,6 +19,7 @@
         "lib": "./lib"
     },
     "dependencies": {
-	"pg": ""
+	"pg": "~4.2.0",
+	"pg-native": "~1.7.3"
     }
 }
